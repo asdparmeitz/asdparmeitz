@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I’m Adam, currently pursuing my Master's degree in Complex Adaptive Systems at Chalmers University of Technology. My passion for AI and machine learning drives me to continuously learn and experiment, applying my knowledge through individual and joint projects. While there’s still much to learn, you’ll likely see a few foundational projects here showcasing my learning journey. Here are a few things I’m currently working on, or would love to dive into further:
+I’m Adam, currently pursuing my Master's degree in Complex Adaptive Systems at Chalmers University of Technology. My passion for AI and machine learning drives me to continuously learn and experiment, applying my knowledge through individual and joint projects. 
+
+While there’s still much to learn, you’ll likely see a few foundational projects here showcasing my learning journey. Here are a few things I’m currently working on, or would love to dive into further:
 - LLM/AI
 - Algoritms & automation
 - Options, pricing and evaluation
