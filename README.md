@@ -20,6 +20,6 @@ My regular go-to activities (no preferred order):
 - Beering
 
 ## Why I have an awkvard GitHub
-Unlike many in tech, I’ve spent years working outside the field. From full-time construction to part-time jobs in customer service and retail alongside my studies. Apperantly, no one in construction have data science contacts(!?) and skills such as drilling concrete or managing people is not "transferrable". On top of that, in the quota of engineers, 5+ years of university studies is not very special. So, I'm trying to sell a small part of my dignity to coorporate for a chance to apply my hard earned, student-loan financed knowledge at a workplace.
+Unlike many in tech, I’ve spent years working outside the field. From full-time construction to part-time jobs in customer service and retail alongside my studies. Apperantly, no one in construction have data science contacts(!?) and skills such as drilling concrete or managing people is not "transferrable". On top of that, in the quota of engineers, 5+ years of university studies is not very special. So, I'm selling a small part of my dignity to corporate in the odd chance that someone finds this and pity me. 
 
 
